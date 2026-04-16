@@ -10,3 +10,5 @@ SOH / EEPROM Reset tested on ZE0 and AZE0. Renault not yet supported. ZE1 reset 
 This app can reflah your AZE0 with Custom CATL battery upgrade firmware. Contact me to purchase a custom firmware for your AZE0.
 
 Use at your own risk. No warranty or support is provided.
+
+Buy me a coffee - help support development : https://ko-fi.com/safetyuggs
